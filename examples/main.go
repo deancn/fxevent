@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
+	"fxevent/pkg"
 	"log"
-	"test/pkg"
 
 	"go.uber.org/fx"
 	"go.uber.org/fx/fxevent"
